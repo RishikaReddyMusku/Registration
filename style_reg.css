@@ -1,0 +1,35 @@
+#outer{
+    margin:0px 625px 0px 625px;
+    background-color: aliceblue;
+    border: 2px solid rgba(0,0,0,0.20);
+    height:550px;
+    width:500px;
+    margin-top: 100px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 25px
+}
+#inner{
+    text-align: center;
+}
+button{
+    font-family: Arial, Helvetica, sans-serif   ;
+    margin: 20px 0px 40px 0px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;    
+    height: 40px;
+    width: 200px;
+}
+h1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.details{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
